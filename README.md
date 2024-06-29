@@ -1,6 +1,6 @@
 # Conception d'une base de données
 Ce document est un résumé de ma lecture du livre ___Conception d'une base de données - de l'analyse à la mise en oeuvre___ de **Mario Alcaide**.  
-Pour plus d'informations, consulter la page du live chez [Editions ENI](https://www.editions-eni.fr/livre/conception-d-une-base-de-donnees-de-l-analyse-a-la-mise-en-uvre-9782409044014/analyse-de-besoins)
+Pour plus d'informations, consulter la page du live chez [Editions ENI](https://www.editions-eni.fr/livre/conception-d-une-base-de-donnees-de-l-analyse-a-la-mise-en-uvre-9782409044014/analyse-de-besoins){:target="_blank" }
 
 Chaque chapître du livre est représenté par un fichier.
 
